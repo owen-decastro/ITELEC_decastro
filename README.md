@@ -5,3 +5,5 @@
 [ACTIVITY 1](https://github.com/owen-decastro/ITELEC_decastro/blob/main/Activity1%20(1)(1).ipynb)
 
 [ACTIVITY 2](https://github.com/owen-decastro/PELEC_ACT2/blob/main/Activity2.ipynb)
+
+[MIDTERM EXAM](https://github.com/owen-decastro/PELEC_repo_of_act/blob/main/midterm_exam.ipynb)
