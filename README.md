@@ -8,4 +8,4 @@
 
 [MIDTERM EXAM](https://github.com/owen-decastro/PELEC_repo_of_act/blob/main/midterm_exam.ipynb)
 
-[ACTIVITY 3](https://github.com/owen-decastro/Activity-3_Dengue_PH)
+[ACTIVITY 3]([https://github.com/owen-decastro/Activity-3_Dengue_PH](https://github.com/owen-decastro/Activity-3_Dengue_PH/blob/main/PROJECT3_DENGUE_PH.ipynb))
