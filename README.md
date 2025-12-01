@@ -36,6 +36,11 @@ Feel free to explore each notebook to see the analytical processes, visualizatio
 
 📎 **Notebook:** [ACTIVITY 4](https://github.com/owen-decastro/PELEC_repo_of_act/blob/8c208ae23a1f6b006b7c6a8bd4d5fb7259f3c619/PROJECT4.ipynb)
 
+### 🔹 **Activity 5 –  Housing Sales Price Data Analytics**
+➡️ *Regression Machine Learning (Linear and Decision Tree)* 
+
+📎 **Notebook:** [ACTIVITY 5](https://github.com/owen-decastro/PELEC_repo_of_act/blob/8c208ae23a1f6b006b7c6a8bd4d5fb7259f3c619/Machine_Learning_Exercise1-Copy1.ipynb)
+
 
 ---
 
