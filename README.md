@@ -50,7 +50,7 @@ Feel free to explore each notebook to see the analytical processes, visualizatio
 ### 🔹 **Activity 6 –  Titanic Survivability Data Analytics**
 ➡️ *Classfication Machine Learning (Logistic and Random Forest) * 
 
-📎 **Notebook:** [ACTIVITY 5](https://github.com/owen-decastro/PELEC_repo_of_act/blob/7c67757631c1469c82410f30030e937f3a345357/TitanicSurvavility_MachineLearning.ipynb)
+📎 **Notebook:** [ACTIVITY 6](https://github.com/owen-decastro/PELEC_repo_of_act/blob/7c67757631c1469c82410f30030e937f3a345357/TitanicSurvavility_MachineLearning.ipynb)
 
 
 ---
