@@ -8,24 +8,28 @@ Feel free to explore each notebook to see the analytical processes, visualizatio
 
 ### 🔹 **Activity 1**
 ➡️ *Palmer Penguins Data Analytics*  
+
 📎 **Notebook:** [ACTIVITY 1](https://github.com/owen-decastro/ITELEC_decastro/blob/main/Activity1%20(1)(1).ipynb)
 
 ---
 
 ### 🔹 **Activity 2**
 ➡️ *United Kingdoms Accidents Data Analytics*  
+
 📎 **Notebook:** [ACTIVITY 2](https://github.com/owen-decastro/PELEC_ACT2/blob/main/Activity2.ipynb)
 
 ---
 
 ### 🔹 **Midterm Exam**
 ➡️ *Chicago Crimes Data Analytics*  
+
 📎 **Notebook:** [MIDTERM EXAM](https://github.com/owen-decastro/PELEC_repo_of_act/blob/main/midterm_exam.ipynb)
 
 ---
 
 ### 🔹 **Activity 3 – Dengue PH Analysis**
 ➡️ *Dengue Cases in the Philippines Data Analytics*  
+
 📎 **Notebook:** [ACTIVITY 3](https://github.com/owen-decastro/Activity-3_Dengue_PH/blob/668127963c554a5c1fa6e070e06bf255b039a1da/PROJECT3_DENGUE_PH.ipynb)
 
 
@@ -40,6 +44,13 @@ Feel free to explore each notebook to see the analytical processes, visualizatio
 ➡️ *Regression Machine Learning (Linear and Decision Tree)* 
 
 📎 **Notebook:** [ACTIVITY 5](https://github.com/owen-decastro/PELEC_repo_of_act/blob/8c208ae23a1f6b006b7c6a8bd4d5fb7259f3c619/Machine_Learning_Exercise1-Copy1.ipynb)
+
+---
+
+### 🔹 **Activity 6 –  Titanic Survivability Data Analytics**
+➡️ *Classfication Machine Learning (Logistic and Random Forest) * 
+
+📎 **Notebook:** [ACTIVITY 5](https://github.com/owen-decastro/PELEC_repo_of_act/blob/7c67757631c1469c82410f30030e937f3a345357/TitanicSurvavility_MachineLearning.ipynb)
 
 
 ---
