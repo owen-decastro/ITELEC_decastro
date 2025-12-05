@@ -20,13 +20,6 @@ Feel free to explore each notebook to see the analytical processes, visualizatio
 
 ---
 
-### 🔹 **Midterm Exam**
-➡️ *Chicago Crimes Data Analytics*  
-
-📎 **Notebook:** [MIDTERM EXAM](https://github.com/owen-decastro/PELEC_repo_of_act/blob/main/midterm_exam.ipynb)
-
----
-
 ### 🔹 **Activity 3 – Dengue PH Analysis**
 ➡️ *Dengue Cases in the Philippines Data Analytics*  
 
@@ -55,12 +48,32 @@ Feel free to explore each notebook to see the analytical processes, visualizatio
 
 📎 **Notebook:** [ACTIVITY 6](https://github.com/owen-decastro/PELEC_repo_of_act/blob/7c67757631c1469c82410f30030e937f3a345357/TitanicSurvavility_MachineLearning.ipynb)
 
+---
+
+### 🔹 **Activity 7 –  Movie Ratings Data Analytics**
+➡️ *Movie Ratings Data Analytics Using POWER BI * 
+
+📎 **Notebook:** [ACTIVITY 7](https://github.com/owen-decastro/PELEC_repo_of_act/blob/be920c672e91eba859addea0d7e52af64c59276c/Act7.pbix)
 
 ---
 
 ### 🔹 **Assignment 1**
 ➡️ *Linear Regression*  
 📎 **Notebook:** [ASSIGNMENT 1](https://github.com/owen-decastro/PELEC_repo_of_act/blob/940665990da4ed41c6a2c4903f4e0432b2aa7cfe/PROJECT3_DENGUE_PH.ipynb)
+
+---
+
+### 🔹 **Midterm Exam**
+➡️ *Chicago Crimes Data Analytics*  
+
+📎 **Notebook:** [MIDTERM EXAM](https://github.com/owen-decastro/PELEC_repo_of_act/blob/main/midterm_exam.ipynb)
+
+---
+
+### 🔹 **Final Exam**
+➡️ *Family Income and Expenditure Data Analytics*  
+
+📎 **Notebook:** [FINAL EXAM](https://github.com/owen-decastro/PELEC_repo_of_act/blob/be920c672e91eba859addea0d7e52af64c59276c/Final_Project.ipynb)
 
 ---
 
